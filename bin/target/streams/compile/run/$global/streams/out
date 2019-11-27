@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mjavaOptions: List()[0m
+[0m[[0minfo[0m] [0mRunning Pi.PiApp [0m
+[0m[[0minfo[0m] [0m[INFO] [11/27/2019 19:47:28.388] [main] [akka.remote.Remoting] Starting remoting[0m
+[0m[[0minfo[0m] [0m[INFO] [11/27/2019 19:47:28.837] [main] [akka.remote.Remoting] Remoting started; listening on addresses :[akka.tcp://PISystem@127.0.0.1:5150][0m
+[0m[[0minfo[0m] [0m[INFO] [11/27/2019 19:47:28.838] [main] [akka.remote.Remoting] Remoting now listens on addresses: [akka.tcp://PISystem@127.0.0.1:5150][0m
+[0m[[0minfo[0m] [0mpi approximation is 3.1413926535917946[0m

@@ -1,0 +1,647 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\Alan\.ivy2\cache\org.scalamacros\paradise_2.11.7\jars\paradise_2.11.7-2.1.0.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application$delayedInit$body.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$$anonfun$receive$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$Ping$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$Ping.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$$anonfun$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$delayedInit$body.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$receive$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$Calculate$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$$anonfun$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$delayedInit$body.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$$anonfun$receive$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$Answer$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$Answer.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$$anonfun$receive$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Result$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Result.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Work$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Work.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote$.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote$delayedInit$body.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\RemoteActor$$anonfun$receive$1.class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\RemoteActor.class
+binary dependencies:
+20 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Application
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Application$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Application$delayedInit$body
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor$$anonfun$receive$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor$Ping
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor$Ping$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Main
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Main$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Main$$anonfun$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Main$delayedInit$body
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master$$anonfun$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master$$anonfun$receive$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master$$anonfun$receive$1$$anonfun$applyOrElse$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi.Master$Calculate$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Pi.PiApp
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Pi.PiApp$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Pi.PiApp$$anonfun$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Pi.PiApp$delayedInit$body
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi.ResultTeller
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi.ResultTeller$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi.ResultTeller$$anonfun$receive$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi.ResultTeller$Answer
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi.ResultTeller$Answer$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$$anonfun$receive$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$$anonfun$receive$1$$anonfun$applyOrElse$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$Result
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$Result$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$Work
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi.Worker$Work$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> HelloRemote
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> HelloRemote$
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> HelloRemote$delayedInit$body
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> RemoteActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> RemoteActor$$anonfun$receive$1
+used names:
+388 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> App
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Application
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> println
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> !
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> &&
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> <byname>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> <repeated>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ==
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> A1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> AbstractFunction0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> AbstractPartialFunction
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ActorSystem
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> AnyRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> App
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> B1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Boolean
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Function1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> HelloActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> IndexOutOfBoundsException
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Int
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Iterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Main
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Ping
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Product
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Props
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ScalaActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> ScalaRunTime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Serializable
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> StringContext
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> StringOps
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> T0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> _$7
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> _hashCode
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> _toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> actorOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> actorRef2Scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> asInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> augmentString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> format
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> helloActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> isInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> materializeClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> myName
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> println
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> qual$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> qual$2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> runtime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> s
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> system
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> typedProductIterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> unchecked
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> x$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> x$2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> x$3
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> x$4
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> !
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> *
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> +
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> <byname>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ==
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> A
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> A1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> AbstractPartialFunction
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ActorContext
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ActorRefRoutee
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Answer
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> AnyRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> B1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Boolean
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Calculate
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Double
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Function1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> IndexOutOfBoundsException
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> IndexedSeq
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Int
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Iterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Master
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Pi
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Product
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Props
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Range
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Result
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ResultTeller
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> RichInt
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> RoundRobinRoutingLogic
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Routee
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Router
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> RoutingLogic
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ScalaActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> ScalaRunTime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Serializable
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> T0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> U
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Vector
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Work
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> Worker
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> _$7
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> acc
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> acc_=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> actorOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> actorRef2Scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> asInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> context
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> fill
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> foreach
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> i
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> intWrapper
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> isInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> materializeClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> nbElement
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> numWorker
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> partial
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> r
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> resultReceive
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> resultReceive_=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> resultTeller
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> route
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> routees
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> routing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> runtime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> self
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> typedProductIterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> unchecked
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> until
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> watch
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> workerRouter
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> !
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> <byname>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> ActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> ActorSystem
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> App
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Calculate
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> ClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Int
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Master
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Pi
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> PiApp
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Props
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> ResultTeller
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> ScalaActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> _$7
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> actorOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> actorRef2Scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> create
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> master
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> materializeClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> qual$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> resultT
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> system
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> x$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> x$2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> &&
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> <repeated>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> ==
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> A
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> A1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> AbstractFunction1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> AbstractPartialFunction
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Answer
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> AnyRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> B1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Boolean
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Double
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Function1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> IndexOutOfBoundsException
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Int
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Iterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> None
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Pi
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Product
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> ResultTeller
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> ScalaRunTime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Serializable
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Some
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Statics
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> StringContext
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> T0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> _toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> asInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> doubleHash
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> eq
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> finalizeHash
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> isInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> mix
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> println
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> result
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> runtime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> s
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> typedProductIterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> unchecked
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> ||
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> !
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> %
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> &&
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> *
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> +
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> -
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> /
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> ==
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> A
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> A1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> AbstractFunction1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> AbstractFunction2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> AbstractPartialFunction
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> ActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> AnyRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> B1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Boolean
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Double
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Function1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> IndexOutOfBoundsException
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Int
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Iterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> None
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Pi
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Product
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Range
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Result
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> RichInt
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> ScalaActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> ScalaRunTime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Serializable
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Some
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Statics
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> T0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> T1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> T2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Tuple2
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> U
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Work
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> Worker
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> _toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> acc
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> actorRef2Scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> asInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> doubleHash
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> eq
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> finalizeHash
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> foreach
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> intWrapper
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> isInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> mix
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> n
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> nbElement
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> partial
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> runtime
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> self
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> sender
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> starting
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> toString
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> typedProductIterator
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> unchecked
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> until
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> ||
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> !
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> <init>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> <repeated>
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> A1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> AbstractPartialFunction
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> ActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> ActorSystem
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Any
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> App
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> B1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Boolean
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Class
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> ClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Function1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> HelloRemote
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Nothing
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Object
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Predef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Props
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> RemoteActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> ScalaActorRef
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> String
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> StringContext
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> T
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> T0
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> Unit
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> _$7
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> actor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> actorOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> actorRef2Scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> akka
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> apply
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> asInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> isInstanceOf
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> materializeClassTag
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> package
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> println
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> qual$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> remoteActor
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> s
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> scala
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> self
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> sender
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> system
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> unchecked
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> x$1
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> x$2
+product stamps:
+40 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application$.class -> lastModified(1574665992962)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application$delayedInit$body.class -> lastModified(1574665992973)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Application.class -> lastModified(1574665992907)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$$anonfun$receive$1.class -> lastModified(1574665993015)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$.class -> lastModified(1574665992983)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$Ping$.class -> lastModified(1574665993038)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor$Ping.class -> lastModified(1574665993028)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloActor.class -> lastModified(1574665993000)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote$.class -> lastModified(1574665993063)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote$delayedInit$body.class -> lastModified(1574665993071)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\HelloRemote.class -> lastModified(1574665993046)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$$anonfun$1.class -> lastModified(1574665993098)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$.class -> lastModified(1574665993090)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main$delayedInit$body.class -> lastModified(1574665993104)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Main.class -> lastModified(1574665993078)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$1.class -> lastModified(1574665993132)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1574665993150)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$$anonfun$receive$1.class -> lastModified(1574665993142)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$.class -> lastModified(1574665993112)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master$Calculate$.class -> lastModified(1574665993157)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Master.class -> lastModified(1574665993124)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$$anonfun$1.class -> lastModified(1574665993183)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$.class -> lastModified(1574665993175)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp$delayedInit$body.class -> lastModified(1574665993190)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\PiApp.class -> lastModified(1574665993164)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$$anonfun$receive$1.class -> lastModified(1574665993215)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$.class -> lastModified(1574665993208)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$Answer$.class -> lastModified(1574665993232)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller$Answer.class -> lastModified(1574665993225)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\ResultTeller.class -> lastModified(1574665993201)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1574665993263)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$$anonfun$receive$1.class -> lastModified(1574665993254)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$.class -> lastModified(1574665993248)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Result$.class -> lastModified(1574665993279)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Result.class -> lastModified(1574665993271)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Work$.class -> lastModified(1574665993287)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker$Work.class -> lastModified(1574665993296)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\Pi\Worker.class -> lastModified(1574665993242)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\RemoteActor$$anonfun$receive$1.class -> lastModified(1574665993313)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\target\scala-2.11\classes\RemoteActor.class -> lastModified(1574665993305)
+source stamps:
+7 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> hash(2bb4372f4466f603af1228d85c6833daba8ea89a)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> hash(97da4f6b6d0610b92f4fdc8419a5bf15cc09fbc3)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> hash(3121b0841c187eb3d3e8f98806006150d015bb5c)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> hash(269dfda571fde746de7256a03456375171d29e27)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> hash(16c426751050e17588dbf1317ea677dcc8d83a87)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> hash(3a736ad1075701f36eb289d465d32bd40f5ae013)
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> hash(e9953c4d017199741a8e7a33573cf6c95cce3a57)
+binary stamps:
+3 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> lastModified(1570905332152)
+C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar -> lastModified(1477668923000)
+C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> java.lang.Object
+C:\Users\Alan\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4.12.jar -> akka.actor.Actor
+C:\Users\Alan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.App
+internal apis:
+7 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRFbZfwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdSBwt3QABm5vdGlmeXNxAH4ADBnGYSh0AAR3YWl0c3EAfgAMqSYMEXQADSRhc0luc3RhbmNlT2ZzcQB+AAy1WBRXdAAGZXF1YWxzc3EAfgAMZ50gnnQADGFzSW5zdGFuY2VPZnNxAH4ADBgf1zB0AA5leGVjdXRpb25TdGFydHNxAH4ADPdYS+h0AAxzeW5jaHJvbml6ZWRzcQB+AAwZ4C3VdAANJGlzSW5zdGFuY2VPZnNxAH4ADK9Pt4x0AARtYWluc3EAfgAMmbZpWHQACW5vdGlmeUFsbHNxAH4ADE9yZX50AAxpc0luc3RhbmNlT2ZzcQB+AAyt7y3idAACPT1zcQB+AAxI3Za1dAAFY2xvbmVzcQB+AAyfxVDUdAALQXBwbGljYXRpb25zcQB+AAzDFbJXdAAGJGluaXQkc3EAfgAMGZM7bHQACHRvU3RyaW5nc3EAfgAMxAXlwHQABGFyZ3NzcQB+AAyizODidAACIT1zcQB+AAwRBjUEdAAIZ2V0Q2xhc3NzcQB+AAxwWSBFdAACbmVzcQB+AAxJ/CXMdAACZXFzcQB+AAy6HS24dAALZGVsYXllZEluaXRzcQB+AAzDePPudAACIyNzcQB+AAyioN8qdAAIZmluYWxpemVzcQB+AAym5gfddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBnc3EAfgBidXEAfgBEAAAAAHNxAH4AYnVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AcXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AItzcQB+AFYAcQB+AB91cQB+AFgAAAAAc3EAfgB+dAAEVW5pdHEAfgCEdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AcXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AW3QABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AH9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGZzcQB+AH50AAVBcnJheXEAfgCEdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AH50AAZTdHJpbmdzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKdAAEamF2YXNxAH4AinQABGxhbmdxAH4Aj3NxAH4AYnVxAH4ApgAAAARzcQB+AH50AANBcHBxAH4AhHNxAH4AfnQAC0RlbGF5ZWRJbml0cQB+AIRzcQB+AH50AAZPYmplY3RxAH4AqnNxAH4AfnQAA0FueXEAfgCEdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW6haCjodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAY0U6XEFsYW5cVW5pdmVyc2l0eVxCQ1MgWUVBUjMgU0VNOFxEaXN0cmlidXRlZCBTeXN0ZW1cTGFiXExhYiA4XHNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCu0Ny9EZvYDrxIo2FxoM9q6jqia
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8pn4mQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAqb3xvdAAEc2VsZnNxAH4AC0CiVkZ0AAdjb250ZXh0dXEAfgAJAAAANHNxAH4AC1kLmn10AAZub3RpZnlzcQB+AAt123tVdAAHdW5hcHBseXNxAH4AC86puJV0AAdSZWNlaXZlc3EAfgALk6sywHQABHdhaXRzcQB+AAsHOCqqdAANJGFzSW5zdGFuY2VPZnNxAH4AC70Dbjl0AAZzeXN0ZW1zcQB+AAudDtqxdAAMcHJvZHVjdEFyaXR5c3EAfgALoyJWZ3QABmVxdWFsc3NxAH4AC6QefEF0AAxhc0luc3RhbmNlT2ZzcQB+AAvyefQMdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtmKJqAdAAKaGVsbG9BY3RvcnNxAH4ACwgj7Jt0AAxzeW5jaHJvbml6ZWRzcQB+AAvd0jpJdAANJGlzSW5zdGFuY2VPZnNxAH4AC7FdnmZ0AAdyZWNlaXZlc3EAfgALfHu6D3QACnByZVJlc3RhcnRzcQB+AAtCKzmYdAANYXJvdW5kUmVjZWl2ZXNxAH4AC0A2IKd0AAhjYW5FcXVhbHNxAH4AC/7dFc10AAtwb3N0UmVzdGFydHNxAH4AC54tyrN0AARtYWluc3EAfgALjKXNh3QACHBvc3RTdG9wc3EAfgALldw1xnQADXByb2R1Y3RQcmVmaXhzcQB+AAtSmJlwdAAJbm90aWZ5QWxsc3EAfgALOcp5j3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALQ4T6XHQADGlzSW5zdGFuY2VPZnNxAH4ACyXwQcd0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALGqf0v3QADmFyb3VuZFBvc3RTdG9wc3EAfgALDKC9hHQABjxpbml0PnNxAH4AC4dEtm50AAhwcmVTdGFydHNxAH4AC37u0BF0AAl1bmhhbmRsZWRzcQB+AAs12852dAAFYXBwbHlzcQB+AAt2ASuDdAACPT1zcQB+AAtDzT77dAAFY2xvbmVzcQB+AAsQcBZFdAAKSGVsbG9BY3RvcnNxAH4AC91ELC50AAYkaW5pdCRzcQB+AAv7Cl7JdAAEY29weXNxAH4AC78MkDt0AAZzZW5kZXJzcQB+AAvTz3V7dAAETWFpbnNxAH4ACzZSSzZ0AAh0b1N0cmluZ3NxAH4AC0EFGbB0AARhcmdzc3EAfgAL4Tc+tnQAAiE9c3EAfgALWCG3HnQACGdldENsYXNzc3EAfgALep8nH3QAAm5lc3EAfgALM4PXFHQABFBpbmdzcQB+AAud3uhsdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALDNpCcHQAAmVxc3EAfgAL0+9JZHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACxF/dyt0AAtkZWxheWVkSW5pdHNxAH4AC1vGTYJ0AAIjI3NxAH4AC8POueF0AAhmaW5hbGl6ZXNxAH4AC212jSF0AA5wcm9kdWN0RWxlbWVudHNxAH4AC225M7d0AAhoYXNoQ29kZXNxAH4AC/wu86B0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AU3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCac3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4An3NxAH4AmnVxAH4AfgAAAABzcQB+AJp1cQB+AH4AAAAAc3EAfgCadXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCedAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+ALd0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC4c3EAfgCrdAAGT2JqZWN0c3EAfgCvc3EAfgCydXEAfgC1AAAAA3NxAH4At3QABGphdmFzcQB+ALd0AARsYW5ncQB+AL5zcQB+AKt0AANBbnlzcQB+AK9zcQB+ALJ1cQB+ALUAAAACc3EAfgC3dAAFc2NhbGFxAH4AvnNxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAB0AApIZWxsb0FjdG9ydXEAfgCSAAAAAH5xAH4AlHQABk1vZHVsZXVxAH4AmAAAAABzcQB+AJpxAH4AoHNxAH4AmnNxAH4AonNxAH4AmnVxAH4AfgAAAABzcQB+AJp1cQB+AH4AAAAAc3EAfgCadXEAfgCpAAAAAnNxAH4Aq3EAfgDAc3EAfgCvc3EAfgCydXEAfgC1AAAAA3NxAH4At3EAfgDFc3EAfgC3cQB+AMdxAH4AvnNxAH4Aq3EAfgDJc3EAfgCvc3EAfgCydXEAfgC1AAAAAnNxAH4At3EAfgDOcQB+AL5zcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+AFt1cQB+AJIAAAAAcQB+ANR1cQB+AJgAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3EAfgCacQB+AKBzcQB+AJpzcQB+AKJzcQB+AJp1cQB+AH4AAAAAc3EAfgCadXEAfgB+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCEcQB+AI11cQB+AI4AAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgD6eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4Aq3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgCvc3EAfgCydXEAfgC1AAAAAnNxAH4At3EAfgDOcQB+AL5zcQB+AJAAcQB+ADd1cQB+AJIAAAAAc3EAfgCrdAAEVW5pdHEAfgEJdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A+nhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AlXQABVBsYWlucQB+AF9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJ5zcQB+AKt0AAVBcnJheXEAfgEJdXEAfgCpAAAAAXNxAH4Aq3QABlN0cmluZ3NxAH4Ar3NxAH4AsnVxAH4AtQAAAANzcQB+ALdxAH4AxXNxAH4At3EAfgDHcQB+AL5zcQB+AJp1cQB+AKkAAAAEc3EAfgCrdAADQXBwcQB+AQlzcQB+AKt0AAtEZWxheWVkSW5pdHEAfgEJc3EAfgCrcQB+AMBxAH4BJnNxAH4Aq3EAfgDJcQB+AQl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqFoKOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABjRTpcQWxhblxVbml2ZXJzaXR5XEJDUyBZRUFSMyBTRU04XERpc3RyaWJ1dGVkIFN5c3RlbVxMYWJcTGFiIDhcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUl9pPa20GELkvT9yEGaW/FcwJ+8M=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwC3289QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHD5Bs6LdAAEc2VsZnNxAH4AC3qwt/l0AAdjb250ZXh0dXEAfgAJAAAALXNxAH4ACwqRQv50AAZub3RpZnlzcQB+AAvyZlRIdAAHUmVjZWl2ZXNxAH4ACyiv4LF0AAR3YWl0c3EAfgALxMMgdnQABk1hc3RlcnNxAH4ACzRSGMh0AA0kYXNJbnN0YW5jZU9mc3EAfgALAKSeRnQADHByb2R1Y3RBcml0eXNxAH4ACwP0avF0AAZlcXVhbHNzcQB+AAvoLg43dAAMYXNJbnN0YW5jZU9mc3EAfgALkhjFm3QADHN5bmNocm9uaXplZHNxAH4AC2CTL6V0AA0kaXNJbnN0YW5jZU9mc3EAfgALqiheiXQAB3JlY2VpdmVzcQB+AAt0eDkjdAAKcHJlUmVzdGFydHNxAH4ACyjMqYt0AA1hcm91bmRSZWNlaXZlc3EAfgALEZYlzXQACGNhbkVxdWFsc3EAfgALGB67ZnQAC3Bvc3RSZXN0YXJ0c3EAfgALNhH+5nQACHBvc3RTdG9wc3EAfgAL9waoanQADXByb2R1Y3RQcmVmaXhzcQB+AAvC77H1dAAJbm90aWZ5QWxsc3EAfgAL1Ds+OnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALaq5ckXQADGlzSW5zdGFuY2VPZnNxAH4AC3DnC5B0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL9D9FunQADmFyb3VuZFBvc3RTdG9wc3EAfgALEBmAjnQABjxpbml0PnNxAH4AC042muZ0AAhwcmVTdGFydHNxAH4ACzB6z6p0AAl1bmhhbmRsZWRzcQB+AAta2Sl3dAACPT1zcQB+AAuGCMewdAAFY2xvbmVzcQB+AAvV2JOLdAANcmVzdWx0UmVjZWl2ZXNxAH4AC6A1+p50AAYkaW5pdCRzcQB+AAtddt9EdAAJQ2FsY3VsYXRlc3EAfgALmKenPXQABnNlbmRlcnNxAH4ACzKtu+x0AAh0b1N0cmluZ3NxAH4AC5h1qmx0AAx3b3JrZXJSb3V0ZXJzcQB+AAuJ5tJVdAACIT1zcQB+AAuKiYP8dAAIZ2V0Q2xhc3NzcQB+AAvPjNWOdAADYWNjc3EAfgAL0BGd0nQAAm5lc3EAfgAL8NmssnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC7tKwHt0AAJlcXNxAH4AC9hqKz10AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsGflG0dAACIyNzcQB+AAvFsm8MdAAIZmluYWxpemVzcQB+AAs6GWysdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAt3MVNfdAAIaGFzaENvZGVzcQB+AAs7NtyLdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAJUGkuTWFzdGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AI1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCSc3EAfgCNdXEAfgBwAAAAAHNxAH4AjXVxAH4AcAAAAABzcQB+AI11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJF0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AkXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AqnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKtzcQB+AJ50AAZPYmplY3RzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqdAAEamF2YXNxAH4AqnQABGxhbmdxAH4AsXNxAH4AnnQAA0FueXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AAVzY2FsYXEAfgCxc3EAfgBycQB+AH91cQB+AIAAAAAAc3EAfgCCAHQACVBpLk1hc3RlcnVxAH4AhQAAAAB+cQB+AId0AAZNb2R1bGV1cQB+AIsAAAAAc3EAfgCNcQB+AJNzcQB+AI1zcQB+AJVzcQB+AI11cQB+AHAAAAAAc3EAfgCNdXEAfgBwAAAAAHNxAH4AjXVxAH4AnAAAAAJzcQB+AJ5xAH4As3NxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AuHNxAH4AqnEAfgC6cQB+ALFzcQB+AJ5xAH4AvHNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4AwXEAfgCxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAACUGlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW6haCjodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAY0U6XEFsYW5cVW5pdmVyc2l0eVxCQ1MgWUVBUjMgU0VNOFxEaXN0cmlidXRlZCBTeXN0ZW1cTGFiXExhYiA4XHNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDEhsIQcGH6z0+j5iAYAYVDQFbtc
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCchKQwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwaLGZM3QABm5vdGlmeXNxAH4ADDhyYJ90AAR3YWl0c3EAfgAMHQBADHQADSRhc0luc3RhbmNlT2ZzcQB+AAwFMszPdAAGc3lzdGVtc3EAfgAM2ug2w3QABm1hc3RlcnNxAH4ADOKegFV0AAZlcXVhbHNzcQB+AAyYfliwdAAMYXNJbnN0YW5jZU9mc3EAfgAM3cnOr3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMOJHnkHQABVBpQXBwc3EAfgAMIyZbX3QADHN5bmNocm9uaXplZHNxAH4ADP25Rg90AA0kaXNJbnN0YW5jZU9mc3EAfgAM2rDnjnQABG1haW5zcQB+AAzfPUnjdAAJbm90aWZ5QWxsc3EAfgAMHUt6dXQADGlzSW5zdGFuY2VPZnNxAH4ADDVbuuh0AAI9PXNxAH4ADHir/jx0AAVjbG9uZXNxAH4ADFALbMl0AAYkaW5pdCRzcQB+AAyq+J3PdAAIdG9TdHJpbmdzcQB+AAzXqgcudAAEYXJnc3NxAH4ADCUEmHF0AAIhPXNxAH4ADLtp1gt0AAdyZXN1bHRUc3EAfgAMJ4gMfXQACGdldENsYXNzc3EAfgAM8zW0R3QAAm5lc3EAfgAMTsqkxHQAAmVxc3EAfgAMo9WEO3QAC2RlbGF5ZWRJbml0c3EAfgAMVNAYoHQAAiMjc3EAfgAMfLqFMXQACGZpbmFsaXplc3EAfgAMJAHumXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACFBpLlBpQXBwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBpc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbnNxAH4AaXVxAH4ASgAAAABzcQB+AGl1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCSc3EAfgBcAHEAfgAldXEAfgBfAAAAAHNxAH4AhXQABFVuaXRxAH4Ai3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGJ0AAVQbGFpbnEAfgAzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCGWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBtc3EAfgCFdAAFQXJyYXlxAH4Ai3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCFdAAGU3RyaW5nc3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXQABGphdmFzcQB+AJF0AARsYW5ncQB+AJZzcQB+AGl1cQB+AK0AAAAEc3EAfgCFdAADQXBwcQB+AItzcQB+AIV0AAtEZWxheWVkSW5pdHEAfgCLc3EAfgCFdAAGT2JqZWN0cQB+ALFzcQB+AIV0AANBbnlxAH4Ai3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAlBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuoWgo6HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGNFOlxBbGFuXFVuaXZlcnNpdHlcQkNTIFlFQVIzIFNFTThcRGlzdHJpYnV0ZWQgU3lzdGVtXExhYlxMYWIgOFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQmnf2lcf3nRt5yVqA0VjdRcdKeJw==
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFo7GuAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAWrr/hdAAEc2VsZnNxAH4AC6Dc4S10AAdjb250ZXh0dXEAfgAJAAAAMXNxAH4AC6Or/aN0AAZub3RpZnlzcQB+AAurrw7ldAAHdW5hcHBseXNxAH4AC0+0MOd0AAdSZWNlaXZlc3EAfgALrRB9kXQABHdhaXRzcQB+AAur5l8vdAANJGFzSW5zdGFuY2VPZnNxAH4AC6CsWiR0AAdjb21wb3Nlc3EAfgALfmxId3QADHByb2R1Y3RBcml0eXNxAH4AC9cMEm10AAZlcXVhbHNzcQB+AAtPXw3UdAAMYXNJbnN0YW5jZU9mc3EAfgALHc4DBHQABnJlc3VsdHNxAH4AC/+yZmF0AAxzeW5jaHJvbml6ZWRzcQB+AAu8zcjUdAANJGlzSW5zdGFuY2VPZnNxAH4ACz4tDqN0AAdhbmRUaGVuc3EAfgAL2599SnQAB3JlY2VpdmVzcQB+AAuol7Q3dAAKcHJlUmVzdGFydHNxAH4AC4rdMOx0AA1hcm91bmRSZWNlaXZlc3EAfgALaYOZVnQACGNhbkVxdWFsc3EAfgALMm7oXXQADFJlc3VsdFRlbGxlcnNxAH4AC4fz8uJ0AAtwb3N0UmVzdGFydHNxAH4AC7wi9wt0AAhwb3N0U3RvcHNxAH4AC+xwyfF0AA1wcm9kdWN0UHJlZml4c3EAfgAL1QVavXQACW5vdGlmeUFsbHNxAH4AC5MiYH50ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC79saYR0AAxpc0luc3RhbmNlT2ZzcQB+AAvYRVM2dAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC/ZyNK50AA5hcm91bmRQb3N0U3RvcHNxAH4AC1jtK4R0AAY8aW5pdD5zcQB+AAs8pf9bdAAIcHJlU3RhcnRzcQB+AAsSQgOKdAAJdW5oYW5kbGVkc3EAfgALewIsdHQABWFwcGx5c3EAfgALC0gm6XQAAj09c3EAfgALXA1FeXQABWNsb25lc3EAfgALV5TurHQABiRpbml0JHNxAH4AC+WzgjR0AARjb3B5c3EAfgALWWOCdHQABnNlbmRlcnNxAH4AC7n5+yR0AAh0b1N0cmluZ3NxAH4AC8qukrZ0AAIhPXNxAH4ACwTc1r90AAhnZXRDbGFzc3NxAH4AC3xnU010AA5jb3B5JGRlZmF1bHQkMXNxAH4AC35mwv90AAJuZXNxAH4AC5hNKh10ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsAD3n0dAACZXFzcQB+AAs7xXdydAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL/wSNW3QAAiMjc3EAfgAL9tZ8gHQACGZpbmFsaXplc3EAfgALVzlIyHQADnByb2R1Y3RFbGVtZW50c3EAfgALLB5hRnQACGhhc2hDb2Rlc3EAfgALOOpgz3QADmFyb3VuZFByZVN0YXJ0c3EAfgALkxJD0nQABkFuc3dlcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA9QaS5SZXN1bHRUZWxsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AlXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB9TAAJaW5oZXJpdGVkcQB+AH1MAAdwYXJlbnRzcQB+AH14cQB+AJpzcQB+AJV1cQB+AHgAAAAAc3EAfgCVdXEAfgB4AAAAAHNxAH4AlXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmXQABUFjdG9yc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCZc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCydAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4As3NxAH4ApnQABk9iamVjdHNxAH4AqnNxAH4ArXVxAH4AsAAAAANzcQB+ALJ0AARqYXZhc3EAfgCydAAEbGFuZ3EAfgC5c3EAfgCmdAADQW55c3EAfgCqc3EAfgCtdXEAfgCwAAAAAnNxAH4AsnQABXNjYWxhcQB+ALlzcQB+AHpxAH4Ah3VxAH4AiAAAAABzcQB+AIoAdAAPUGkuUmVzdWx0VGVsbGVydXEAfgCNAAAAAH5xAH4Aj3QABk1vZHVsZXVxAH4AkwAAAABzcQB+AJVxAH4Am3NxAH4AlXNxAH4AnXNxAH4AlXVxAH4AeAAAAABzcQB+AJV1cQB+AHgAAAAAc3EAfgCVdXEAfgCkAAAAAnNxAH4ApnEAfgC7c3EAfgCqc3EAfgCtdXEAfgCwAAAAA3NxAH4AsnEAfgDAc3EAfgCycQB+AMJxAH4AuXNxAH4ApnEAfgDEc3EAfgCqc3EAfgCtdXEAfgCwAAAAAnNxAH4AsnEAfgDJcQB+ALl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAJQaXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqFoKOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABjRTpcQWxhblxVbml2ZXJzaXR5XEJDUyBZRUFSMyBTRU04XERpc3RyaWJ1dGVkIFN5c3RlbVxMYWJcTGFiIDhcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFsQmdRBQ4XWI2/ExfqZ33MjYOoc=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6/k4cwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAe6NMVdAAEc2VsZnNxAH4ACxSBnrV0AAdjb250ZXh0dXEAfgAJAAAAN3NxAH4AC86xlOV0AAZub3RpZnlzcQB+AAulTnWUdAAHdW5hcHBseXNxAH4ACyqcBMx0AAdjdXJyaWVkc3EAfgALwVg6Y3QAB1JlY2VpdmVzcQB+AAt4W9HPdAAEd2FpdHNxAH4ACyaOYJ90AA5jb3B5JGRlZmF1bHQkMnNxAH4AC6z6vYF0AA0kYXNJbnN0YW5jZU9mc3EAfgALzqjgE3QAB3BhcnRpYWxzcQB+AAs0/n6IdAAHY29tcG9zZXNxAH4AC8yn8xN0AAxwcm9kdWN0QXJpdHlzcQB+AAuL/+tGdAAGZXF1YWxzc3EAfgAL26NqGXQADGFzSW5zdGFuY2VPZnNxAH4AC7QFE150AAxzeW5jaHJvbml6ZWRzcQB+AAufg93+dAANJGlzSW5zdGFuY2VPZnNxAH4AC0WLbSt0AAdhbmRUaGVuc3EAfgALLgIKInQAB3JlY2VpdmVzcQB+AAvWn+QgdAAKcHJlUmVzdGFydHNxAH4AC8i+HvR0AAZ0dXBsZWRzcQB+AAuhDqGpdAANYXJvdW5kUmVjZWl2ZXNxAH4ACxEKDL50AAhjYW5FcXVhbHNxAH4AC485tQp0AAtwb3N0UmVzdGFydHNxAH4AC1eXD9t0AAluYkVsZW1lbnRzcQB+AAvLI/4HdAAIcG9zdFN0b3BzcQB+AAsVyDZLdAANcHJvZHVjdFByZWZpeHNxAH4ACzYRmQ50AAlub3RpZnlBbGxzcQB+AAuk31eZdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvY/rt6dAAMaXNJbnN0YW5jZU9mc3EAfgALFUlMn3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAshXL7kdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtdDkHadAAEV29ya3NxAH4ACwX55dh0AAY8aW5pdD5zcQB+AAu4Ipb+dAAIcHJlU3RhcnRzcQB+AAt/XrhUdAAJdW5oYW5kbGVkc3EAfgALq8n7p3QABWFwcGx5c3EAfgALB87ffXQAAj09c3EAfgALIhTKmnQABWNsb25lc3EAfgALTmY2/3QABiRpbml0JHNxAH4AC4WUzid0AARjb3B5c3EAfgALEWzE3HQABnNlbmRlcnNxAH4ACz03PSl0AAh0b1N0cmluZ3NxAH4AC9F7FUd0AAIhPXNxAH4AC3Dm6650AAhzdGFydGluZ3NxAH4AC8HhddN0AAhnZXRDbGFzc3NxAH4ACxvoUeR0AAZXb3JrZXJzcQB+AAuJCyIrdAAOY29weSRkZWZhdWx0JDFzcQB+AAtFRmpAdAAGUmVzdWx0c3EAfgALiR+LvnQAAm5lc3EAfgAL0WXoKnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC0YK66R0AAJlcXNxAH4ACycJWnd0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAuoMe3SdAACIyNzcQB+AAtY1WgGdAAIZmluYWxpemVzcQB+AAtVvOKCdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtbO2q8dAAIaGFzaENvZGVzcQB+AAtOl/F+dAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAJUGkuV29ya2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AiUwACWluaGVyaXRlZHEAfgCJTAAHcGFyZW50c3EAfgCJeHEAfgCmc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AhAAAAABzcQB+AKF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKV0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ApXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AvnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AL9zcQB+ALJ0AAZPYmplY3RzcQB+ALZzcQB+ALl1cQB+ALwAAAADc3EAfgC+dAAEamF2YXNxAH4AvnQABGxhbmdxAH4AxXNxAH4AsnQAA0FueXNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL50AAVzY2FsYXEAfgDFc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQACVBpLldvcmtlcnVxAH4AmQAAAAB+cQB+AJt0AAZNb2R1bGV1cQB+AJ8AAAAAc3EAfgChcQB+AKdzcQB+AKFzcQB+AKlzcQB+AKF1cQB+AIQAAAAAc3EAfgChdXEAfgCEAAAAAHNxAH4AoXVxAH4AsAAAAAJzcQB+ALJxAH4Ax3NxAH4AtnNxAH4AuXVxAH4AvAAAAANzcQB+AL5xAH4AzHNxAH4AvnEAfgDOcQB+AMVzcQB+ALJxAH4A0HNxAH4AtnNxAH4AuXVxAH4AvAAAAAJzcQB+AL5xAH4A1XEAfgDFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAACUGlzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW6haCjodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAY0U6XEFsYW5cVW5pdmVyc2l0eVxCQ1MgWUVBUjMgU0VNOFxEaXN0cmlidXRlZCBTeXN0ZW1cTGFiXExhYiA4XHNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDpzatEHVwHzbrKJ1GXTK9QPWuAT
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1jx48gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCqEkGBdAAEc2VsZnNxAH4AC/pLLld0AAdjb250ZXh0dXEAfgAJAAAAK3NxAH4AC4EKza90AAZub3RpZnlzcQB+AAtMQwBvdAAHUmVjZWl2ZXNxAH4AC6yFA0d0AAR3YWl0c3EAfgALEjpgznQADSRhc0luc3RhbmNlT2ZzcQB+AAtL2GROdAAGc3lzdGVtc3EAfgALhcfsQHQABmVxdWFsc3NxAH4AC62NLGB0AAxhc0luc3RhbmNlT2ZzcQB+AAu+mHnTdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAsioe2sdAAMc3luY2hyb25pemVkc3EAfgAL8TOY63QADSRpc0luc3RhbmNlT2ZzcQB+AAutnTyrdAAHcmVjZWl2ZXNxAH4ACy41hNp0AApwcmVSZXN0YXJ0c3EAfgAL3tKPdXQADWFyb3VuZFJlY2VpdmVzcQB+AAu3+bwPdAALcG9zdFJlc3RhcnRzcQB+AAufKjczdAAEbWFpbnNxAH4AC6gC7hd0AAhwb3N0U3RvcHNxAH4AC+/gNqF0AAtSZW1vdGVBY3RvcnNxAH4AC6+TEHJ0AAlub3RpZnlBbGxzcQB+AAswXnVhdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvv79H1dAAMaXNJbnN0YW5jZU9mc3EAfgALGF8JhXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuVt7WMdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuDQBmLdAAGPGluaXQ+c3EAfgALLarQ3HQACHByZVN0YXJ0c3EAfgALX/tOlHQACXVuaGFuZGxlZHNxAH4AC5Jkks10AAI9PXNxAH4AC8Mcl4V0AAVjbG9uZXNxAH4AC2Bb8JB0AAYkaW5pdCRzcQB+AAsdlgbAdAALSGVsbG9SZW1vdGVzcQB+AAt0+w6bdAAGc2VuZGVyc3EAfgAL2uU86XQACHRvU3RyaW5nc3EAfgAL3UeEjXQABGFyZ3NzcQB+AAv4SKmZdAACIT1zcQB+AAsQQmoddAAIZ2V0Q2xhc3NzcQB+AAszCUS0dAACbmVzcQB+AAu46U9edAALcmVtb3RlQWN0b3JzcQB+AAtTZQv7dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALeexH13QAAmVxc3EAfgALEMg67nQAC2RlbGF5ZWRJbml0c3EAfgALx34vwXQAAiMjc3EAfgALGv7uIHQACGZpbmFsaXplc3EAfgALT1sJIXQACGhhc2hDb2Rlc3EAfgAL9oMEjHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AcXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBLdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHFMAAlpbmhlcml0ZWRxAH4AcUwAB3BhcmVudHNxAH4AcXhxAH4Aj3NxAH4AinVxAH4AbAAAAABzcQB+AIp1cQB+AGwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AHJxAH4Ae3VxAH4AfAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AJl4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCzc3EAfgB+AHEAfgAvdXEAfgCAAAAAAHNxAH4ApnQABFVuaXRxAH4ArHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AJl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIN0AAVQbGFpbnEAfgBRc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCnWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCOc3EAfgCmdAAFQXJyYXlxAH4ArHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCmdAAGU3RyaW5nc3EAfgCqc3EAfgCtdXEAfgCwAAAAA3NxAH4AsnQABGphdmFzcQB+ALJ0AARsYW5ncQB+ALdzcQB+AIp1cQB+AM4AAAAEc3EAfgCmdAADQXBwcQB+AKxzcQB+AKZ0AAtEZWxheWVkSW5pdHEAfgCsc3EAfgCmdAAGT2JqZWN0cQB+ANJzcQB+AKZ0AANBbnlxAH4ArHNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgBxAH4AM3VxAH4AgAAAAAB+cQB+AIJ0AAhDbGFzc0RlZnVxAH4AhgAAAABzcQB+AIpxAH4AkHNxAH4AinNxAH4AknNxAH4AinVxAH4AbAAAAABzcQB+AIp1cQB+AGwAAAAAc3EAfgCKdXEAfgDOAAAAA3NxAH4ApnQABUFjdG9yc3EAfgCqc3EAfgCtdXEAfgCwAAAAA3NxAH4AsnQABGFra2FzcQB+ALJ0AAVhY3RvcnEAfgC3c3EAfgCmcQB+AOBzcQB+AKpzcQB+AK11cQB+ALAAAAADc3EAfgCycQB+ANZzcQB+ALJxAH4A2HEAfgC3c3EAfgCmcQB+AOJzcQB+AKpzcQB+AK11cQB+ALAAAAACc3EAfgCycQB+ALVxAH4At3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuoWgo6HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGNFOlxBbGFuXFVuaXZlcnNpdHlcQkNTIFlFQVIzIFNFTThcRGlzdHJpYnV0ZWQgU3lzdGVtXExhYlxMYWIgOFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTplTxNAXGZdBqOejNXPPbJXM46Vw==
+external apis:
+0 items
+source infos:
+7 items
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Application.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\HelloWorld.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Master.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\PiApp.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\ResultTeller.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Pi\Worker.scala -> 
+AAAAAAAAAAA=
+E:\Alan\University\BCS YEAR3 SEM8\Distributed System\Lab\Lab 8\server\bin\src\main\scala\Server.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5DIfl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5H66Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5Mo9J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5NwyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5Pdy11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWC5TDLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXDEzMDIwMDExXERlc2t0b3Bcc2VydmVyXGJpblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFIuyql1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXEplZmZyZXlcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFJ0nx91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXEplZmZyZXlcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFJ2xAd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPUM6XFVzZXJzXEplZmZyZXlcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFfRO1d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFipnsN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWFke9Bl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxzZXJ2ZXJcYmluXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbqFoKOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAY0U6XEFsYW5cVW5pdmVyc2l0eVxCQ1MgWUVBUjMgU0VNOFxEaXN0cmlidXRlZCBTeXN0ZW1cTGFiXExhYiA4XHNlcnZlclxiaW5cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
